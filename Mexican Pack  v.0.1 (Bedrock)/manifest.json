@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§lTextura Mexicana Creada Por Klisee Junto Al Mexican Team \n§lSoporte Directo En discord.cuadrados.net",
+        "name": "§k§l§f||||§r §l§aMexi§fcan Pa§cck §a1§f.§c0 §f§k§l||||",
+        "uuid": "aca4ef67-699a-4658-9887-e0f80fd8f03d",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 19, 0 ]
+    },
+    "modules": [
+        {
+            "description": "§lTextura Mexicana Creada Por Klisee Junto Al Mexican Team \n§lSoporte Directo En discord.cuadrados.net",
+            "type": "resources",
+            "uuid": "8861c0b3-8212-4346-a8ff-7bac6a65be5a",
+            "version": [1, 0, 0]
+        }
+    ]
+}
