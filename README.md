@@ -2,3 +2,4 @@
 
 # Mexican Pack v. 0.1 PRE REALESE
 
+[![Licencia GNU GPL 3.0](https://img.shields.io/badge/licencia-gnu-gpl)](LICENSE)
