@@ -3,3 +3,4 @@
 # Mexican Pack v. 0.1 PRE REALESE
 
 [![Licencia GNU GPL 3.0](https://img.shields.io/badge/licencia-gnu-gpl)](LICENSE)
+[![Discord Oficial](https://img.shields.io/discord/803810506581475348.svg?color=%237289da&label=discord)](https://discord.klisee.net)
