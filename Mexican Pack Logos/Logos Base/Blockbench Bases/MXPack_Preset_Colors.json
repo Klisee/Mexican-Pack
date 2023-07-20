@@ -1,0 +1,33 @@
+{
+  "type": "minecraft_title_generator_preset",
+  "version": 1,
+  "preset": {
+    "font": "minecraft-ten",
+    "type": "top",
+    "texture": "flat",
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "colour": "#ffffff",
+    "blend": "multiply",
+    "saturation": 100,
+    "brightness": 100,
+    "contrast": 100,
+    "customBorderColour": "#000000",
+    "customEdgeColour": "#000000",
+    "gradientColour0": "#009b22",
+    "gradientColour2": "#ffffff",
+    "gradientColour3": "#ff0000",
+    "gradientColour4": "#9b1500",
+    "overlay": "highlights_top",
+    "overlayBlend": "overlay",
+    "overlayColourBlend": "multiply",
+    "overlayColour": "#ffffff",
+    "colourOpacity": 100,
+    "overlayOpacity": 100,
+    "textureSource": "gradient",
+    "overlaySource": "premade"
+  }
+}
