@@ -1,6 +1,6 @@
 # Mexican Pack v. 0.1 PRE REALESE
 
-<img src="https://github.com/Klisee/Mexican-Pack/assets/85597531/31d3aeee-7e7d-491d-95e3-2c0115deb2ea" width="500"/>
+<img src="https://github.com/Klisee/Mexican-Pack/assets/85597531/1e58ac2d-14e4-4522-a3fb-03c71940542e" width="500"/>
 
 El Mexican Pack es un paquete de recursos que altera texturas, modelos, textos y sonidos dentro del juego totalmente compatible con Minecraft: Bedrock Edition y Minecraft Java Edition.
 
