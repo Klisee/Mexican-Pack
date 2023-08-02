@@ -1,7 +1,7 @@
-El Mexicn Pack usa licencias comerciales reales pero nosotros usamos el Fair Use para defender nuestro
+El Mexican Pack usa licencias comerciales reales pero nosotros usamos el Fair Use para defender nuestro
 proyecto el cual no esta ni nunca estara destinado a un uso comercial ni nunca estara hecho para un uso
-comercial y como proteccion usamos la Licencia Atribución-NoComercial-SinDerivadas 4.0 Internacional 
-(CC BY-NC-ND 4.0) para tener una licencia en el proyecto.
+comercial y como proteccion usamos la Licencia GNU GPL v3.0 para poder dar mejor proteccion al proyecto y
+que sea siempre libre y gratuito para siempre.
 
 El uso de todas las marcas en este paquete de recursos de Minecraft™ se nos permite en sus propias Normas
 y EULA hacer un uso de este tipo asi como las propias Leyes Mexicanas nos permiten crear esta obra segun 
