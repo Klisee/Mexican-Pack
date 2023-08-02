@@ -18,13 +18,12 @@ Una cosa muy importante es que estamos bajo el Fair Use o llamado tambien Uso Ju
 y todas las marcas mencionadas en la textura no nos han pagado ni promocionado en esto, ni mucho menos buscamos su
 promocion si no mas bien la satira, tambien para aclarar el asunto de derechos de autor y las Normas y EULA de
 Mojang Studios™ y nunca buscaremos beneficiarnos monetariamente con este proyecto (Cualquier Uso De Acortadores No
-Ets Autorizado Por Nosotros Ni Dado Por Nosotros)
+Ets Autorizado Por Nosotros Ni Dado Por Nosotros) ya que rompe la licencia usada para su distribucion.
 
-Respecto a la licencia que usamos es posible redistribuir el paquete de recursos mas no puede ser modificado mas alla
-del uso personal y no puede ser reutilizado ni mucho menos quitar las personas involucradas en este proyecto de ninguna
-forma ya que esto va en contra de la Licencia Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)
-la cual en caso de incumplirla sera bajado tu material y si es necesario se tomaran acciones legales en tu contra al ser
-un material parcialmente protegido por derechos de autor.
+Respecto a la licencia que usamos es posible redistribuir, modificar y editar la textura siempre y cuando des los
+creditos correspondientes y uses la licencia GNU GPL v3.O en todo momento, asi mismo si crearas una modificacion
+debera ser libre y que sea totalmente publica para su modificacion asi como usar la licencia Creative Commons Zero 1.0
+en todo momento
 
 Sientete en la libertad de resubir la textura pero por favor no la uses bajo fines comerciales como por ejemplo usar
 acortadores de publicidad o vender la textura, puedes redistribuirla solo si no incumples esta parte, asi mismo ninguna
