@@ -1,4 +1,4 @@
-# Mexican Pack v. 0.1 PRE REALESE
+# Mexican Pack v. 0.1 PRE RELEASE
 
 <img src="https://github.com/Klisee/Mexican-Pack/assets/85597531/866ef9ca-5958-4733-ab44-c5b87a6c8b3b" width="500"/>
 
