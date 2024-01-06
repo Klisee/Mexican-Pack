@@ -4,7 +4,7 @@
 
 El Mexican Pack es un paquete de recursos que altera texturas, modelos, textos y sonidos del juego hecha de forma satirica, totalmente compatible con Minecraft: Bedrock Edition y Minecraft Java Edition.
 
-El Mexican Pack es un proyecto totalmente libre hecho por [Klisee](https://www.klisee.net/) y el Mexican Team.
+El Mexican Pack es un proyecto totalmente libre hecho por [Klisee](https://www.klisee.net/) 
 
 [![Licencia GNU GPL 3.0](https://img.shields.io/badge/licencia-gnu-gpl)](LICENSE)
 [![Discord Oficial](https://img.shields.io/discord/803810506581475348.svg?color=%237289da&label=discord)](https://discord.klisee.net)
