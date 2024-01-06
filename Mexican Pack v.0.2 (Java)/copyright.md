@@ -1,4 +1,4 @@
-Copyright (c) 2023 Klisee
+Copyright (c) 2024 Klisee
 
 Sobre la cuestion de derechos de autor sobre el Mexican Pack es importante aclarar varios puntos
 acerca de la misma ya que para empezar este proyecto cuenta con la Licencia GNU GENERAL PUBLIC
