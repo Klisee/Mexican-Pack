@@ -18,8 +18,7 @@ Ya que nosotros no estamos haciendo un uso realmente no permitido de los derecho
 de las propias Leyes Mexicanas, que aunque algunas leyes recientes intentan poner algunas trabas por censura
 en nuestro caso no aplica realmente ya que no estamos haciendo ningun uso comercial minimo
 
-Sobre que es exactamente el Uso Justo hay una referencia en https://r3d.mx/2020/09/21/la-figura-de-uso-justo-
-puede-facilitar-el-trabajo-de-preservacion-de-obras-opina-la-fundacion-wikimedia/
+Sobre que es exactamente el Uso Justo hay una referencia en https://r3d.mx/2020/09/21/la-figura-de-uso-justo-puede-facilitar-el-trabajo-de-preservacion-de-obras-opina-la-fundacion-wikimedia/
 
 El uso justo (también llamado uso legítimo o uso razonable) permitiría a las instituciones culturales preservar 
 obras de interés público que todavía no están en el dominio público, algo especialmente importante en un país 
