@@ -12,7 +12,10 @@
 				{"coordinates": [-7, 25, -8, 16, 8, 14], "textureOffset": [0, 25]},
 				{"coordinates": [-6.5, 16, -9, 15, 9, 16], "textureOffset": [0, 0], "sizeAdd": 0.5},
 				{"coordinates": [0, 27, -9, 2, 6, 1], "textureOffset": [0, 6]},
-				{"coordinates": [0, 26, -9, 1, 1, 1], "textureOffset": [0, 6]}
+				{"coordinates": [0, 25, -9, 2, 2, 1], "textureOffset": [0, 6]},
+				{"coordinates": [0, 25, -10, 2, 2, 1], "textureOffset": [0, 6]},
+				{"coordinates": [0, 24, -10, 2, 1, 1], "textureOffset": [0, 6]},
+				{"coordinates": [0, 23, -10, 1, 1, 1], "textureOffset": [0, 6]}
 			]
 		},
 		{
