@@ -2,9 +2,9 @@
     "format_version": 2,
     "header": {
         "description": "§lTextura Mexicana Creada Por Klisee Junto Al Mexican Team \n§lSoporte Directo En discord.klisee.net",
-        "name": "§k§l§f||||§r §l§aMexi§fcan Pa§cck §a0§f.§c2 §fPRE RELEASE §f§k§l||||",
-        "uuid": "0c0e9f6f-dfe4-49c8-9b12-3a177c8db26a",
-        "version": [0, 2, 0],
+        "name": "§k§l§f||||§r §l§aMexi§fcan Pa§cck §a0§f.§c3 §fPRE RELEASE §f§k§l||||",
+        "uuid": "69070fb8-4e68-4d48-bdb3-6609b3cc9cc9",
+        "version": [0, 3, 0],
         "min_engine_version": [ 1, 20, 0 ]
     },
     "metadata" : {
@@ -15,8 +15,8 @@
         {
             "description": "§lTextura Mexicana Creada Por Klisee Junto Al Mexican Team \n§lSoporte Directo En discord.klisee.net",
             "type": "resources",
-            "uuid": "18340d97-f23d-47dd-b88a-18b4820eec60",
-            "version": [0, 2, 0]
+            "uuid": "8a71c684-5059-4189-951b-a45ea4cc55ab",
+            "version": [0, 3, 0]
         }
     ]
 }
