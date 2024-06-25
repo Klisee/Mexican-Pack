@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spawn_egg",
+    "textures": {
+        "egg":"item/strider_spawn_egg"
+    }
+}

@@ -1,0 +1,114 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 128],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -16],
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{"coordinates": [-8, -2, 20, 16, 10, 2], "textureOffset": [42, 37]},
+				{"coordinates": [-8, -2, 17, 16, 10, 3], "textureOffset": [38, 24]}
+			],
+			"submodels": [
+				{
+					"id": "almohada",
+					"invertAxis": "xy",
+					"translate": [1, -2, 13],
+					"rotate": [-27.5, 0, 0],
+					"boxes": [
+						{"coordinates": [-7, -1, 4, 13, 7, 4], "textureOffset": [44, 0]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "foot",
+			"id": "foot",
+			"invertAxis": "xy",
+			"translate": [-8, -9, 0],
+			"rotate": [90, 0, 0],
+			"boxes": [
+				{"coordinates": [-9, -6, -1, 18, 20, 4], "textureOffset": [0, 0]},
+				{"coordinates": [-9, -6, 3, 1, 8, 2], "textureOffset": [44, 11]},
+				{"coordinates": [8, -6, 3, 1, 12, 2], "textureOffset": [8, 63]},
+				{"coordinates": [-8, -6, 3, 16, 20, 3], "textureOffset": [0, 24]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -16],
+			"rotate": [0, -90, 0],
+			"boxes": [
+				{"coordinates": [7, 0, 16, 2, 15, 2], "textureOffset": [52, 62]},
+				{"coordinates": [7, 15, 17, 2, 2, 14], "textureOffset": [24, 37]},
+				{"coordinates": [7, 9, 18, 2, 1, 12], "textureOffset": [16, 53]},
+				{"coordinates": [7, 6, 18, 2, 1, 12], "textureOffset": [0, 47]},
+				{"coordinates": [7, 3, 18, 2, 1, 12], "textureOffset": [44, 11]},
+				{"coordinates": [7, 12, 18, 2, 1, 12], "textureOffset": [44, 49]}
+			],
+			"animations": [
+				{
+					"this.ry": 0
+				}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [-8, -9, -16],
+			"rotate": [0, -180, 0],
+			"boxes": [
+				{"coordinates": [22, 0, 15, 2, 15, 2], "textureOffset": [44, 62]}
+			],
+			"animations": [
+				{
+					"this.ry": 0
+				}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-8, -9, 0],
+			"boxes": [
+				{"coordinates": [6, 0, -17, 2, 12, 2], "textureOffset": [0, 63]},
+				{"coordinates": [-7, 12, -17, 14, 2, 2], "textureOffset": [60, 11]},
+				{"coordinates": [-6, 6, -17, 12, 1, 2], "textureOffset": [60, 18]},
+				{"coordinates": [-6, 9, -17, 12, 1, 2], "textureOffset": [0, 60]},
+				{"coordinates": [-6, 3, -17, 12, 1, 2], "textureOffset": [60, 15]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [-8, -9, 0],
+			"rotate": [0, 90, 0],
+			"boxes": [
+				{"coordinates": [23, 0, -16, 2, 12, 2], "textureOffset": [60, 62]}
+			],
+			"animations": [
+				{
+					"this.ry": 0
+				}
+			]
+		}
+	]
+}

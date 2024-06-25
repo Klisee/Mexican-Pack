@@ -1,0 +1,22 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "§lTextura Mexicana Creada Por Klisee Junto Al Mexican Team \n§lSoporte Directo En discord.klisee.net",
+        "name": "§k§l§f||||§r §l§aMexi§fcan Pa§cck §c21 §f§k§l||||",
+        "uuid": "d93c145e-12ee-4cbf-b2ef-39a8d78f208a",
+        "version": [1, 20, 80],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "metadata" : {
+       "authors" : [ "Klisee" ],
+       "url" : "mexicanpack.klisee.net"
+    },
+    "modules": [
+        {
+            "description": "§lTextura Mexicana Creada Por Klisee Junto Al Mexican Team \n§lSoporte Directo En discord.klisee.net",
+            "type": "resources",
+            "uuid": "f6496d0e-1ada-4395-b1dd-52949d85f594",
+            "version": [1, 20, 80]
+        }
+    ]
+}

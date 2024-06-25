@@ -1,0 +1,32 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/quetzalcoatl.png",
+            "ascent": 9,
+            "height": 11,
+            "chars": [""]
+	},
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/title.png",
+            "ascent": 0,
+            "height": 24,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/builderbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:icons/designerbyrg.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        }
+    ]
+}

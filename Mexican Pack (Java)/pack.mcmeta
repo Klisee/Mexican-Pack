@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "pack_format": 45,
+    "supported_formats": [
+      16,
+      45
+    ],
+    "description": [
+      "",
+      {
+        "text": "Textura Creada Por Klisee,"
+			},	  
+			"\n",
+      {
+        "text": "Soporte: discord.klisee.net"
+      }
+    ]
+  }
+}
