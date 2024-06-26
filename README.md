@@ -1,4 +1,4 @@
-# Mexican Pack 21
+# Mexican Pack
 
 <img src="https://github.com/Klisee/Mexican-Pack/assets/85597531/866ef9ca-5958-4733-ab44-c5b87a6c8b3b" width="500"/>
 
@@ -7,7 +7,7 @@ El Mexican Pack es un paquete de recursos que altera texturas, modelos, textos y
 El Mexican Pack es un proyecto totalmente libre hecho por [Klisee](https://www.klisee.net/) 
 
 [![Licencia GNU GPL 3.0](https://img.shields.io/badge/licencia-gnu-gpl)](LICENSE)
-[![Discord Oficial](https://img.shields.io/discord/778115701528854568.svg?color=%237289da&label=discord)](https://discord.klisee.net)
+[![Discord Oficial](https://img.shields.io/discord/778115701528854568?style=for-the-badge&logo=discord&color=5865F2&)](https://discord.klisee.net)
 
 # ADVERTENCIA PARA JUGADORES DE MINECRAFT: JAVA EDITION
 Nos consideramos partidarios de no hacer obligatorias modificaciones externas a Minecraft Vanilla ya que a muchos no les gusta usarlas o usan una modificación incompatible con la misma (como Sodium), pero no hay forma de poder importar modelos personalizados a Java Edition por limitaciones del juego.
