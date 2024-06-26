@@ -13,6 +13,10 @@ El Mexican Pack es un proyecto totalmente libre hecho por [Klisee](https://www.k
 
 Subir una nueva versión del Mexican Pack a las diferentes plataformas por ahora es un reto muy complicado. No solo por la aprobación que requiero de todas las plataformas, sino también por las capturas, textos, enlaces, cambios en la página web, etc., que debo hacer para lanzar otra versión. Además, hay cambios que aún están en progreso pero no están completados como para desplegarlos en una versión totalmente abierta al público.
 
+# ¿Es recomendable usar esta version?
+
+Por supuesto, más allá de algunas cosas incompletas que hay en estos lanzamientos, así como el hecho de que las versiones anteriores no se almacenan debido a los constantes cambios que recibe prácticamente a diario, es usable. Aunque claro, tiene algunas características no terminadas y diversos errores aún listos para cambiar, así como cambios que podrían revertirse en cualquier momento.
+
 # ADVERTENCIA PARA JUGADORES DE MINECRAFT: JAVA EDITION
 Nos consideramos partidarios de no hacer obligatorias modificaciones externas a Minecraft Vanilla ya que a muchos no les gusta usarlas o usan una modificación incompatible con la misma (como Sodium), pero no hay forma de poder importar modelos personalizados a Java Edition por limitaciones del juego.
 
