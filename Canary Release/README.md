@@ -1,6 +1,6 @@
 # Mexican Pack Canary Release
 
-<img src="https://github.com/Klisee/Mexican-Pack/assets/85597531/866ef9ca-5958-4733-ab44-c5b87a6c8b3b" width="500"/>
+<img src="https://github.com/Klisee/Mexican-Pack/assets/85597531/279aa168-944d-406c-8b4e-0c2cd26ed511" width="500"/>
 
 Las Canary Releases son versiones de prueba las cuales pueden contener bastantes errores y no estan destinadas para un despliegue en las plataformas donde esta disponible el Mexican Pack
 
