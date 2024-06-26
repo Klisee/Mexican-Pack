@@ -6,7 +6,7 @@ Las Canary Releases son versiones de prueba que pueden contener errores y no est
 
 El Mexican Pack es un proyecto totalmente libre hecho por [Klisee](https://www.klisee.net/) 
 
-[![Licencia GNU GPL 3.0](https://img.shields.io/badge/licencia-gnu-gpl/?style=for-the-badge&logo=gnu&color=FFFFFF&)](LICENSE)
+[![Licencia GNU GPL 3.0](https://img.shields.io/badge/gnu-gpl?style=for-the-badge&logo=gnu&logoColor=000000&label=Licencia&labelColor=FFFFFF&color=515050)](LICENSE)
 [![Discord Oficial](https://img.shields.io/discord/778115701528854568?style=for-the-badge&logo=discord&logoColor=FFFFFF&label=Discord&labelColor=283086&color=%235865F2)](https://discord.klisee.net) 
 
 # ¿Por que existe la Canary Release?
