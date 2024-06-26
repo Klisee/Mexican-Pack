@@ -1,0 +1,215 @@
+{
+	"name": "Dr Descuentazos",
+	"floor_box_uvs": true,
+	"texture": "iron_golem.png",
+	"texture_size": [128, 128],
+	"parts": [
+		{
+			"name": "body",
+			"position": [0, 31, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-9, 25, -6],
+					"to": [7, 33, 8],
+					"uv": [14, 39],
+					"position": [0, -31, 0]
+				},
+				{
+					"type": "block",
+					"from": [-8.5, 16, -7],
+					"to": [6.5, 25, 9],
+					"inflate": 0.5,
+					"uv": [16, 16],
+					"position": [0, -31, 0]
+				},
+				{
+					"type": "block",
+					"from": [-2, 27, 8],
+					"to": [0, 33, 9],
+					"uv": [1, 7],
+					"position": [0, -31, 0]
+				},
+				{
+					"type": "block",
+					"from": [-2, 25, 8],
+					"to": [0, 27, 9],
+					"uv": [1, 7],
+					"position": [0, -31, 0]
+				},
+				{
+					"type": "block",
+					"from": [-2, 25, 9],
+					"to": [0, 27, 10],
+					"uv": [1, 7],
+					"position": [0, -31, 0]
+				},
+				{
+					"type": "block",
+					"from": [-2, 24, 9],
+					"to": [0, 25, 10],
+					"uv": [1, 7],
+					"position": [0, -31, 0]
+				},
+				{
+					"type": "block",
+					"from": [-1, 23, 9],
+					"to": [0, 24, 10],
+					"uv": [1, 7],
+					"position": [0, -31, 0]
+				}
+			]
+		},
+		{
+			"name": "head",
+			"position": [0, 31, 2],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-8, 33, -4.5],
+					"to": [6, 47, 6.5],
+					"uv": [11, 58],
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [-3, 38, 6.5],
+					"to": [1, 40, 7.5],
+					"uv": [1, 1],
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [-4, 36, 6.5],
+					"to": [2, 38, 7.5],
+					"uv": [47, 79],
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [-6, 37, 6.5],
+					"to": [-3, 39, 7.5],
+					"uv": [47, 79],
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [-5, 44, 6.5],
+					"to": [-3, 45, 7.5],
+					"uv": [47, 79],
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [1, 44, 6.5],
+					"to": [3, 45, 7.5],
+					"uv": [47, 79],
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [1, 37, 6.5],
+					"to": [4, 39, 7.5],
+					"uv": [47, 79],
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [-13, 40, 2],
+					"to": [-8, 46, 2],
+					"uv": [97, 10],
+					"invert": true,
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [6, 40, 2],
+					"to": [11, 46, 2],
+					"uv": [97, 17],
+					"invert": true,
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [-10, 39, 0],
+					"to": [-8, 41, 2],
+					"uv": [2, 2],
+					"position": [0, -31, -2]
+				},
+				{
+					"type": "block",
+					"from": [6, 39, 0],
+					"to": [8, 41, 2],
+					"uv": [2, 2],
+					"position": [0, -31, -2]
+				}
+			]
+		},
+		{
+			"name": "right_arm",
+			"position": [0, 31, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-14, 14.5, -1],
+					"to": [-9, 33.5, 4],
+					"uv": [25, 77],
+					"position": [0, -31, 0]
+				}
+			]
+		},
+		{
+			"name": "left_arm",
+			"position": [0, 31, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [7, 14.5, 0],
+					"to": [12, 33.5, 5],
+					"uv": [5, 77],
+					"position": [0, -31, 0]
+				}
+			]
+		},
+		{
+			"name": "right_leg",
+			"position": [-4, 13, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-8.5, 0, -3],
+					"to": [-1.5, 16, 6],
+					"uv": [69, 25],
+					"position": [4, -13, 0]
+				},
+				{
+					"type": "block",
+					"from": [-8.5, 0, 6],
+					"to": [-1.5, 5, 10],
+					"uv": [69, 25],
+					"position": [4, -13, 0]
+				}
+			]
+		},
+		{
+			"name": "left_leg",
+			"position": [5, 13, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-0.5, 0, -3],
+					"to": [6.5, 16, 6],
+					"uv": [59, 56],
+					"position": [-5, -13, 0]
+				},
+				{
+					"type": "block",
+					"from": [-0.5, 0, 6],
+					"to": [6.5, 5, 10],
+					"uv": [59, 56],
+					"position": [-5, -13, 0]
+				}
+			]
+		}
+	]
+}
