@@ -6,7 +6,7 @@ El Mexican Pack es un paquete de recursos que altera texturas, modelos, textos y
 
 El Mexican Pack es un proyecto totalmente libre hecho por [Klisee](https://www.klisee.net/) 
 
-[![Licencia GNU GPL 3.0](https://img.shields.io/badge/licencia-gnu-gpl)](LICENSE)
+[![Licencia GNU GPL 3.0](https://img.shields.io/badge/licencia-gnu-gpl/?style=for-the-badge&logo=gnu&color=FFFFFF&)](LICENSE)
 [![Discord Oficial](https://img.shields.io/discord/778115701528854568?style=for-the-badge&logo=discord&color=5865F2&)](https://discord.klisee.net)
 
 # ADVERTENCIA PARA JUGADORES DE MINECRAFT: JAVA EDITION
