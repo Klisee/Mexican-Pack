@@ -1,0 +1,204 @@
+{
+	"name": "Cama",
+	"floor_box_uvs": true,
+	"texture": "black.png",
+	"texture_size": [128, 128],
+	"parts": [
+		{
+			"name": "head",
+			"position": [-8, 9, -16],
+			"rotation": [-90, 0, 0],
+			"parts": [
+				{
+					"name": "almohada",
+					"position": [7, -11, 3],
+					"rotation": [27.5, 0, 0],
+					"shapes": [
+						{
+							"type": "block",
+							"from": [-6, 1, -23],
+							"to": [7, 8, -19],
+							"uv": [48, 4],
+							"position": [0, -2, 15]
+						}
+					]
+				}
+			],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-8, -2, -22],
+					"to": [8, 8, -20],
+					"uv": [44, 39],
+					"position": [8, -9, 16]
+				},
+				{
+					"type": "block",
+					"from": [-8, -2, -22],
+					"to": [8, 8, -19],
+					"uv": [41, 27],
+					"position": [8, -9, 18]
+				}
+			]
+		},
+		{
+			"name": "foot",
+			"position": [-8, 9, 0],
+			"rotation": [-90, 0, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-9, -6, -4],
+					"to": [9, 14, 0],
+					"uv": [4, 4],
+					"position": [8, -9, 1]
+				},
+				{
+					"type": "block",
+					"from": [-9, -6, -6],
+					"to": [-8, 2, -4],
+					"uv": [46, 13],
+					"position": [25, -9, 1]
+				},
+				{
+					"type": "block",
+					"from": [-9, -6, -6],
+					"to": [-8, 6, -4],
+					"uv": [10, 65],
+					"position": [8, -9, 1]
+				},
+				{
+					"type": "block",
+					"from": [-8, -6, -6],
+					"to": [8, 14, -3],
+					"uv": [3, 27],
+					"position": [8, -9, 0]
+				}
+			]
+		},
+		{
+			"name": "leg1",
+			"position": [-8, 9, -16],
+			"rotation": [0, -90, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-8, 0, -18],
+					"to": [-6, 15, -16],
+					"uv": [54, 64],
+					"position": [7, -9, 16]
+				},
+				{
+					"type": "block",
+					"from": [-8, 15, -28],
+					"to": [-6, 17, -14],
+					"uv": [38, 51],
+					"position": [7, -9, 13]
+				},
+				{
+					"type": "block",
+					"from": [-8, 15, -27],
+					"to": [-6, 16, -15],
+					"uv": [28, 65],
+					"position": [7, -15, 13]
+				},
+				{
+					"type": "block",
+					"from": [-8, 15, -27],
+					"to": [-6, 16, -15],
+					"uv": [12, 59],
+					"position": [7, -18, 13]
+				},
+				{
+					"type": "block",
+					"from": [-8, 15, -27],
+					"to": [-6, 16, -15],
+					"uv": [56, 23],
+					"position": [7, -21, 13]
+				},
+				{
+					"type": "block",
+					"from": [-8, 15, -27],
+					"to": [-6, 16, -15],
+					"uv": [56, 61],
+					"position": [7, -12, 13]
+				}
+			]
+		},
+		{
+			"name": "leg254",
+			"position": [-8, 9, -16],
+			"rotation": [0, -180, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-24, 0, -18],
+					"to": [-22, 15, -16],
+					"uv": [46, 64],
+					"position": [8, -9, 17]
+				}
+			]
+		},
+		{
+			"name": "leg3",
+			"position": [-8, 9, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-7, 0, 14],
+					"to": [7, 2, 16],
+					"uv": [62, 13],
+					"position": [8, 3, 1]
+				},
+				{
+					"type": "block",
+					"from": [-6, 1, 14],
+					"to": [6, 2, 16],
+					"uv": [62, 20],
+					"position": [8, -4, 1]
+				},
+				{
+					"type": "block",
+					"from": [-6, 1, 14],
+					"to": [6, 2, 16],
+					"uv": [2, 62],
+					"position": [8, -1, 1]
+				},
+				{
+					"type": "block",
+					"from": [-6, 1, 14],
+					"to": [6, 2, 16],
+					"uv": [62, 17],
+					"position": [8, -7, 1]
+				}
+			]
+		},
+		{
+			"name": "leg4",
+			"position": [-8, 9, 0],
+			"rotation": [0, 90, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-24, 0, 14],
+					"to": [-22, 12, 16],
+					"uv": [62, 64],
+					"position": [7, -9, 0]
+				}
+			]
+		},
+		{
+			"name": "leg2",
+			"position": [0, 0, 0],
+			"shapes": [
+				{
+					"type": "block",
+					"from": [-8, 0, 14],
+					"to": [-6, 12, 16],
+					"uv": [2, 65],
+					"position": [0, 0, 1]
+				}
+			]
+		}
+	]
+}
